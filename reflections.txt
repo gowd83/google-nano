@@ -1,0 +1,31 @@
+Lesson 4
+
+
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+ 
+
+* What new skills have you learned?
+  
+
+Skills that ive have learned have been is how to identify different parts of the code.
+Understanding tags and elements.
+
+
+* What has been easy?
+  
+Understanding structures, tags, paragraphs, elements, headings and subheadings.
+
+* What has been difficult?
+
+I wouldnt consider anything so far as being difficult.  Being that this is my first true coding / programming 
+project, ive been embracing the growing pains.
+
+ 
+* How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+
+Lesson 4
