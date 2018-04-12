@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+</head>
+<body>
+	<div>
+		<!-- your favorite animal's name goes here -->
+		<h3>Lionel The Lion</h3>
+		<!-- https://www.pexels.com/photo/animal-africa-zoo-lion-33045/-->
+		<img src="https://www.pixabay.com">
+			<!-- your favorite animal's interesting fact goes here -->
+			<p>A lion can run for short distances at 50 mph and leap as far as 36 feet. A lion’s roar can be heard from as far as 5 miles away....</p>
+			<ul>
+				<!-- your favorite animal's list items go here -->
+				<li><span>Characteristics</span>: muscular, deep-chested cat with a short, rounded head, a reduced neck and round ears/li>
+				<li><span>Different Species</span>: 7 different subspecies</li>
+				<li><span>Typical Weight Range</span>: 150 to 250 kg </li>
+				<li><span>Scientific Name</span>: Panthera Leo</li>
+			</ul>
+			<!-- your favorite animal's description goes here -->
+			<p>Lion is the second largest extant species after the tiger. The modern lion probably originated in East and Southern Africa about 100,000 years ago...</p>
+		</div>
+	</div>
+</body>
+</html>
